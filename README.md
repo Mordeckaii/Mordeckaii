@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Lagos, Nigeria.</h3>
 
 <p align="left"> <a href="https://twitter.com/diggbickenergy" target="blank"><img src="https://img.shields.io/twitter/follow/diggbickenergy?logo=twitter&style=for-the-badge" alt="diggbickenergy" /></a> </p>
-<img align="right" alt="GIF" src="lazycoder.gif" width="400"/>
+<img align="right" alt="GIF" src="another.gif" width="400"/>
 
 - 🔭 I’m currently working on a **Product Landing Page.**
 
