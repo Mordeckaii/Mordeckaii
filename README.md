@@ -1,6 +1,6 @@
 # Hi, I am <a href="https://github.com/Mordeckaii">DIKE!</a>
 
-<img align="right" alt="GIF" src="deolu.gif" width="450"/>
+<img align="right" alt="GIF" src="lazycoder.gif" width="400"/>
 
 <h3>A passionate frontend developer from Lagos, Nigeria.</h3>
 
