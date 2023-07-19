@@ -1,15 +1,17 @@
-# Hi, I am <a href="https://github.com/Mordeckaii">Dike</a>
+# Hi, I am <a href="https://github.com/Mordeckaii">DIKE!</a>
+
+<img align="right" alt="GIF" src="lazycoder.gif" width="450"/>
 <h3>A passionate frontend developer from Lagos, Nigeria.</h3>
 
-<img align="right" alt="GIF" src="lazycoder.gif" width="300"/>
+- 🔭 I’m currently working on a **Product Landing Page**.
 
-- 🔭 I’m currently working on a **Product Landing Page.**
+- 🌱 I’m currently learning **Javascript, React and PHP**.
 
-- 🌱 I’m currently learning **Javascript, React and PHP.**
+- 👯 I’m looking to collaborate on **any projects related to front-end development, especially those that involve building interactive UIs and improving web performance**.
 
-- 👯 I’m looking to collaborate on **any projects related to front-end development, especially those that involve building interactive UIs and improving web performance.**
+- 💬 Ask me about my experience with **React, JavaScript, and web development in general**.
 
-- 📫 How to reach me **[Email](mailto:dikefaves007@gmail.com)**
+- 📫 How to reach me **[Email](mailto:dikefaves007@gmail.com)**.
 
 - ⚡ Fun fact **I am a passionate lover of sports!**
 
