@@ -1,6 +1,6 @@
 # Hi, I am <a href="https://github.com/Mordeckaii">DIKE!</a>
 
-<img align="right" alt="GIF" src="deolu.gif" width="450"/>
+<img align="right" alt="GIF" src="lazycoder.gif" width="400"/>
 
 <h3>A passionate frontend developer from Lagos, Nigeria.</h3>
 
@@ -30,6 +30,6 @@
 
 ## Github Stats
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mordeckaii&show_icons=true&theme=dark&layout=compact)
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mordeckaii&count_private=true&show_icons=true&theme=dark) -->
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mordeckaii&show_icons=true&theme=gotham&layout=compact)
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mordeckaii&count_private=true&show_icons=true&theme=gotham) -->
 ![Streaks and Contributions](https://github-readme-streak-stats.herokuapp.com?user=mordeckaii&theme=gotham&date_format=M%20j%5B%2C%20Y%5D)
