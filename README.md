@@ -2,7 +2,7 @@
 
 <h3>A passionate frontend developer from Lagos, Nigeria.</h3>
 
-<img align="right" alt="GIF" src="deolu.gif" width="450"/>
+<img align="right" alt="GIF" src="deolu.gif" width="400"/>
 
 - 🔭 I’m currently working on a **Product Landing Page**.
 
