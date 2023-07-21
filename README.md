@@ -1,4 +1,4 @@
-# Hi, I am <a href="https://github.com/Mordeckaii">DIKE!</a>
+# Hi, I am <a href="https://github.com/Mordeckaii">Dike</a>.
 
 <h3>A passionate frontend developer from Lagos, Nigeria.</h3>
 
