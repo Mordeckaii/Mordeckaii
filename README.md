@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **[Email](mailto:dikefaves007@gmail.com)**.
 
-- ⚡ Fun fact **I am a passionate lover of sports!**
+- ⚡ Fun fact **I am a passionate lover of sports!!!**
 
 ## Connect with me
 
@@ -30,7 +30,6 @@
 
 ## Github Stats
 
-![mordeckaii's Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=mordeckaii&show_icons=true&theme=gotham&layout=compact)
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mordeckaii&count_private=true&show_icons=true&theme=gotham)<br> -->
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mordeckaii&show_icons=true&theme=dark&layout=compact)
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mordeckaii&count_private=true&show_icons=true&theme=dark) -->
 ![Streaks and Contributions](https://github-readme-streak-stats.herokuapp.com?user=mordeckaii&theme=gotham&date_format=M%20j%5B%2C%20Y%5D)
-<!--
