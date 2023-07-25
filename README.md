@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on a **Product Landing Page**.
 
-- 🌱 I’m currently learning **Javascript, React and PHP**.
+- 🌱 I’m currently learning **Javascript and React**.
 
 - 👯 I’m looking to collaborate on **any projects related to front-end development, especially those that involve building interactive UIs and improving web performance**.
 
