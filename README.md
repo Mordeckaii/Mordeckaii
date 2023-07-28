@@ -138,4 +138,4 @@
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mordeckaii&show_icons=true&theme=gotham&layout=compact)
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mordeckaii&count_private=true&show_icons=true&theme=gotham) -->
-![Streaks and Contributions](https://github-readme-streak-stats.herokuapp.com?user=mordeckaii&theme=gotham&date_format=M%20j%5B%2C%20Y%5D)
+[![Streaks and Contributions](https://github-readme-streak-stats.herokuapp.com?user=mordeckaii&theme=ocean-dark&hide_border=true&border_radius=30)](https://git.io/streak-stats)
