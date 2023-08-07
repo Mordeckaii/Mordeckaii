@@ -2,7 +2,7 @@
 
 <h3>A passionate frontend developer from Lagos, Nigeria.</h3>
 
-<img align="right" alt="GIF" src="another.gif" width="320"/>
+<img align="right" position = "fixed" alt="GIF" src="another.gif" width="320"/>
 
 - 🔭 I’m currently working on a **Product Landing Page**.
 
