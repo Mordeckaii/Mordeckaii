@@ -4,8 +4,6 @@
 
 <img align="right" alt="GIF" src="another.gif" width="320"/>
 
-
-
 - 🔭 I’m currently working on a **Product Landing Page**.
 
 - 🌱 I’m currently learning **SASS, React and Javascript**.
@@ -139,5 +137,5 @@
 ## Github Stats
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mordeckaii&show_icons=true&theme=gotham&layout=compact)
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mordeckaii&count_private=true&show_icons=true&theme=gotham) -->
-[![Streaks and Contributions](https://github-readme-streak-stats.herokuapp.com?user=mordeckaii&theme=ocean-dark&hide_border=true&border_radius=30)](https://git.io/streak-stats)
+
+![Streaks and Contributions](https://github-readme-streak-stats.herokuapp.com/?user=mordeckaii&theme=ocean-dark&hide_border=true&border_radius=30)
