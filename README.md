@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **[email](mailto:dikefaves007@gmail.com)**.
 
-- ⚡ Fun fact **I am a passionate lover of sports!**
+- ⚡ Fun fact **I am a passionate lover of sports!!**
 
 ## Connect with me
 
