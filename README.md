@@ -13,7 +13,7 @@
 - 💬 Ask me about my experience with **React, JavaScript, and web development in general**.
 
 - 📫 How to reach me **[email](mailto:dikefaves007@gmail.com)**.
-- ⚡ Fun fact **I am a passionate lover of football. Up Gunners!!**
+- ⚡ Fun fact **I am a passionate lover of football. Up Gunners!!!!**
 
 ## Connect with me
 
