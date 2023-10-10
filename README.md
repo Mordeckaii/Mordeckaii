@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **SASS, React and Javascript**.
 
-- 👯 I’m looking to collaborate on **any projects related to front-end development, especially those that involve building interactive UIs and improving web performance**.
+- 👯 I’m looking to collaborate on **any projects related to front-end development, especially those that involve building interactive UI's and improving web performance**.
 
 - 💬 Ask me about my experience with **React, JavaScript, and web development in general**.
 
